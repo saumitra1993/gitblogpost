@@ -9,6 +9,7 @@ Right now, well, there aren't any, but there will be and when there are, you can
 I have been reading up extensively about Git for almost two months now. I have elaborate notes from the ProGit book (which is amazing by the way) and I have gone through all the blogs I could find that talk about how awesome Git is and others that talk about what Git doesn't do well enough. 
 That, I think is a matter of opinion. 
 Programmers love Git because they understand the architecture, the sheer elegance of it. 
+
 Designers think in terms of abstractions, some that Git does brilliantly, others that it fails to do. (Merge-conflicts etc.) Great design doesn't make its presence felt and stuff like that.
 
 But, there was this particular comment, I fail to recollect the source of, that got me thinking more about Git. 
@@ -23,3 +24,5 @@ Do people need an iphone of VCS?
 If the fate of Git lies only in the hands of programmers, probably not. If there is something for everyone in the Git workflow, then a big yes. 
 
 So now, I get to the point. Is there something for everyone in the Git workflow?  
+
+As Clay Shirky pointed out in his TED talk, this ideology reflects democratic spirit. 
