@@ -11,9 +11,9 @@ Programmers love Git because they understand the architecture, the sheer eleganc
 Designers think in terms of abstractions, some that Git does brilliantly, others that it fails at doing. (Merge-conflicts etc.)
 So, instead of talking about Git, I will talk about the Git workflow, the ideology behind it, which I found no critics for.
 
-The first part of the Git ideology is that of version control.
-We, as humans, make mistakes. We don't always know what we are doing and so, we try a few things out, see the results and adjust ourselves accordingly. 
-The second part is that of a distributed system.
-It basically implies letting everybody see the bigger picture. As Clay Shirky pointed out in his TED talk, this ideology reflects democratic spirit.
+The first part of what Git does is version control.
+We, as humans, make mistakes. We don't always know what we are doing and so, we try a few things out, see the results and adjust ourselves accordingly. In Git terms, you try things out in "branches" and you remember what you are doing using a "commit".
+The second part is that it is a distributed system.
+It basically implies letting everybody see the bigger picture. As Clay Shirky pointed out in his TED talk, this ideology reflects democratic spirit. In Git terms, you "push" to share your changes with everybody else and you "pull" to accept others' changes, from a host all parties have access to.
 
-When you put these two ideologies together, you get a potent way of working as a human, with humans. So, now let's take a real situation and see if the Git workflow can help us out.
+When you put these two ideologies together, you get a potent way of working like a human, with humans. So, now let's take a real situation and see if the Git workflow can help us out.
