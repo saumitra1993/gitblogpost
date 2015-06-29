@@ -1,0 +1,2 @@
+It's perhaps hypocrisy of the highest degree to talk about Git without exposing the reader to how the article evolved, how it branched from something it was to what it finally came out to be. 
+And if the goal of the article is to convince people to adopt the Git workflow for all aspects of a general problem statement, be it code, text, excel sheets, images, word docs, whatever, I believe its almost a crime to not adopt the Git workflow for the article.
