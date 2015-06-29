@@ -25,4 +25,12 @@ If the fate of Git lies only in the hands of programmers, probably not. If there
 
 So now, I get to the point. Is there something for everyone in the Git workflow?  
 
-As Clay Shirky pointed out in his TED talk, this ideology reflects democratic spirit. 
+As Clay Shirky pointed out in his TED talk, the git ideology reflects democratic spirit. The idea that everybody has all of the resource at all times and yet can't misuse it, is indeed attractive. 
+
+If I were to start a company knowing the power of the Git workflow, I would make six repos- one for all the code, one for all the designs and graphics work, one for all the product related documentation, another for all the business related documentation, one for all the stats documents and the last for all of our discussions. 
+
+I don't really know if that would be a great idea but it's definitely worth a shot. All I have to do when someone new joins in is add him/her as a collaborator and he would understand the company as much as I want him to. Hired a freelancer? Well, working remotely couldn't be easier. The workflow lets you work offline with the tools you are most comfortable with and yet, lets you stay in sync with everybody else. 
+
+So now that we agree that the Git workflow can help non programmers too, we ask ourselves, can Git pull it off? Can Git usher the world into a new era of collaboration? Like Clay Shirky described it, the era of collaboration without coordination. 
+
+I will leave the question open to discussions before making any judgement but one thing I am pretty sure about is that the answer to this question can change your, yes dear reader, your life. 
