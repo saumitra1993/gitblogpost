@@ -11,13 +11,192 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
-
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	</head>
+	<style>
+	#content {
+		height:500px;
+	}
+	#diagram {
+		height:500px;
+	}
+	.node {
+		height:70px;
+		width:80px;
+		background-color:#e6e6e6;
+		border:1px solid #000;
+		border-radius: 50px;
+	}
+	.edge {
+		width: 1px;
+		height:40px;
+		border:1px solid #000;
+	}
+	.line1 {
+	    width: 159px;
+	    height: 26px;
+	    border-bottom: 1px solid;
+	    -webkit-transform:
+	        translateY(-12px)
+	        translateX(9px)
+	        rotate(15deg); 
+	    position: absolute;
+	    /* top: -20px; */
+	}
+
+	.line2 {
+	    width: 80px;
+	    height: 43px;
+	    border-bottom: 1px solid;
+	    -webkit-transform:
+	        translateY(12px)
+	        translateX(9px)
+	        rotate(-45deg);
+	    position: absolute;
+	    
+	}
+
+	.line3 {
+	    width: 250px;
+	    height: 0px;
+	    border-bottom: 1px solid;
+	    -webkit-transform:
+	        translateY(-12px)
+	        translateX(9px)
+	        rotate(15deg); 
+	    position: absolute;
+	    /* top: -20px; */
+	}
+
+	.line4 {
+	    width: 199px;
+	    height: 28px;
+	    border-bottom: 1px solid;
+	    -webkit-transform:
+	        translateY(-12px)
+	        translateX(9px)
+	        rotate(-15deg); 
+	    position: absolute;
+	    /* top: -20px; */
+	}
+
+	.line5 {
+	    width: 505px;
+	    height: 2px;
+	    border-bottom: 1px solid;
+	    -webkit-transform:
+	        translateY(-78px)
+	        translateX(-12px)
+	        rotate(-18deg); 
+	    position: absolute;
+	    /* top: -20px; */
+	}
+	</style>
 	<body>
 		<div id="content">
 		</div>
 		<div id="diagram">
+
+			<div class="row">
+				<div class="node col-md-1 col-md-offset-3" data-toggle="tooltip" data-placement="top" title="Improved conclusion. Article looks satisfactory, I guess.">		
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="edge" style="margin-left:28.0%">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="node col-md-1 col-md-offset-3" data-toggle="tooltip" data-placement="top" title="Removed all the extra content and explained the point more clearly.">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="line1" style="margin-left:30.0%">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="node col-md-1 col-md-offset-5" data-toggle="tooltip" data-placement="top" title="Completed the content">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="edge" style="margin-left:44.4%">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="node col-md-1 col-md-offset-5" data-toggle="tooltip" data-placement="top" title="Merge branch 'realExamples' into iphonecomment">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="edge" style="margin-left:44.4%">     <!--SECOND EDGE TO BE ADDED -->
+				</div>
+
+				<div class="line3" style="margin-left:46.4%">     <!--SECOND EDGE TO BE ADDED -->
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="node col-md-1 col-md-offset-5" data-toggle="tooltip" data-placement="top" title="Finally got a way to reach the point">
+				</div>
+
+				<div class="node col-md-1 col-md-offset-2" data-toggle="tooltip" data-placement="top" title="Updated git explanation with relevant terms">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="line4" style="margin-left:27.2%">
+				</div>
+				<div class="edge" style="margin-left:67.2%">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="node col-md-1 col-md-offset-3" data-toggle="tooltip" data-placement="top" title="">
+				</div>
+
+				<div class="node col-md-1 col-md-offset-4" data-toggle="tooltip" data-placement="top" title="">
+				</div>
+
+			</div>
+
+			<div class="row">
+				<div class="edge" style="margin-left:28%">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="node col-md-1 col-md-offset-3" data-toggle="tooltip" data-placement="top" title="">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="edge" style="margin-left:28%">
+				</div>
+				<div class="line5" style="margin-left:30%">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="node col-md-1 col-md-offset-3" data-toggle="tooltip" data-placement="top" title="">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="edge" style="margin-left:28%">
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="node col-md-1 col-md-offset-3" data-toggle="tooltip" data-placement="top" title="">
+				</div>
+			</div>
+
 		</div>
 	</body>
 </html>
