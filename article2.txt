@@ -6,14 +6,13 @@ There was this particular comment on a blog I fail to recollect the name of, tha
 
 "Where's the iphone of version control systems?", asked the commenter. 
 
-That's a very good question. Git to version control systems is not what iphone was to phones. Or is it? 
-The answer lies in answering an even more fundamental question. 
+That's a very good question. Git to version control systems is not what iphone was to phones. Or is it? The answer lies in answering an even more fundamental question. 
 
-Do people need an iphone of VCS?
+Do people need an iphone of version control systems?
 
 If the fate of Git lies only in the hands of programmers, probably not. If there is something for everyone in the Git workflow, then a big yes, mostly because necessity is the mother of invention.
 
-Programmers love Git because they understand the architecture, the sheer elegance of it. 
+Programmers love Git because they understand the architecture, the sheer elegance of it. To them, it is the iphone.
 
 Designers think in terms of abstractions, some that Git does brilliantly, others that it fails to do. (Merge-conflicts etc.) Great design doesn't make its presence felt and stuff like that.
 
@@ -29,7 +28,11 @@ If you look around, there are many projects that are offbeat, trying to push cha
 
 So now that we may agree that the Git workflow can help non programmers too, we ask ourselves, can Git pull it off? Can Git usher the world into a new era of collaboration? Like Clay Shirky described it, the era of collaboration without coordination. 
 
-I will leave the question open to discussions before making any judgement but one thing I am pretty sure about is that the answer to this question can change your, yes dear reader, your life. 
+If yes, all we need to do is talk about git more, make more lessons to make it easy to learn and make it appear less scary to all the non programmers.
+
+If not, then all of us have to go on a mission, a mission to reimagine the git workflow and come up with a tool that a designer could call the iphone of version control systems.
+
+I will leave the question open to discussions before making any judgement. Do check out the commits of this article before forming an opinion though. Putting something, anything together is almost never a clean, linear process.
 
 
 Sources - http://www.makeuseof.com/tag/just-coders-9-ways-use-github-creative-work/, http://blog.ted.com/further-reading-in-github/
