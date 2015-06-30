@@ -1,5 +1,4 @@
-It's perhaps hypocrisy of the highest degree to talk about the Git workflow without exposing the reader to how the article evolved, how it branched from something it was to what it finally came out to be.
-You can see all versions of this article. 
+It's perhaps hypocrisy of the highest degree to talk about the Git workflow without exposing the reader to how the article evolved, how it branched from something it was to what it finally came out to be. All versions of this article can be seen.
 You can just click on the commits I made while writing and see how the article evolved.
 
 There was this particular comment on a blog I fail to recollect the name of, that got me thinking about Git in the first place. 
