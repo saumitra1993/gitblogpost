@@ -26,7 +26,7 @@ app.controller("versionController", function($scope){
 app.directive('commitOne',function(){
   return {
     restrict:'E',
-    templateUrl:'7e6e8.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/7e6e8.html',
     scope:false,
     link:function(scope,element){
      
@@ -37,7 +37,7 @@ app.directive('commitOne',function(){
 app.directive('commitTwo',function(){
   return {
     restrict:'E',
-    templateUrl:'b13f8.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/b13f8.html',
     scope:false,
     link:function(scope,element){
      
@@ -48,7 +48,7 @@ app.directive('commitTwo',function(){
 app.directive('commitThree',function(){
   return {
     restrict:'E',
-    templateUrl:'e89bc.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/e89bc.html',
     scope:false,
     link:function(scope,element){
      
@@ -59,7 +59,7 @@ app.directive('commitThree',function(){
 app.directive('commitFour',function(){
   return {
     restrict:'E',
-    templateUrl:'5acd8.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/5acd8.html',
     scope:false,
     link:function(scope,element){
      
@@ -70,7 +70,7 @@ app.directive('commitFour',function(){
 app.directive('commitFive',function(){
   return {
     restrict:'E',
-    templateUrl:'561e5.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/561e5.html',
     scope:false,
     link:function(scope,element){
      
@@ -81,7 +81,7 @@ app.directive('commitFive',function(){
 app.directive('commitSix',function(){
   return {
     restrict:'E',
-    templateUrl:'e1c9f.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/e1c9f.html',
     scope:false,
     link:function(scope,element){
      
@@ -92,7 +92,7 @@ app.directive('commitSix',function(){
 app.directive('commitSeven',function(){
   return {
     restrict:'E',
-    templateUrl:'3fa59.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/3fa59.html',
     scope:false,
     link:function(scope,element){
      
@@ -103,7 +103,7 @@ app.directive('commitSeven',function(){
 app.directive('commitEight',function(){
   return {
     restrict:'E',
-    templateUrl:'77c3c.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/77c3c.html',
     scope:false,
     link:function(scope,element){
      
@@ -114,7 +114,7 @@ app.directive('commitEight',function(){
 app.directive('commitNine',function(){
   return {
     restrict:'E',
-    templateUrl:'f8d86.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/f8d86.html',
     scope:false,
     link:function(scope,element){
      
@@ -122,7 +122,7 @@ app.directive('commitNine',function(){
     };
   });
 
-app.directive('commitTen',function(){
+app.directive('https://cdn.rawgit.com/saumitra1993/gitblogpost/master/commitTen',function(){
   return {
     restrict:'E',
     templateUrl:'3e694.html',
@@ -136,7 +136,7 @@ app.directive('commitTen',function(){
 app.directive('commitEleven',function(){
   return {
     restrict:'E',
-    templateUrl:'3ffd9.html',
+    templateUrl:'https://cdn.rawgit.com/saumitra1993/gitblogpost/master/3ffd9.html',
     scope:false,
     link:function(scope,element){
      

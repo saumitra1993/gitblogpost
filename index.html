@@ -20,7 +20,8 @@
 		
 	}
 	#diagram {
-		
+		background-image:url(1.jpg);
+		padding-bottom: 10px; 
 	}
 	.node {
 		height:40px;
@@ -61,7 +62,7 @@
 	}
 
 	.selected {
-		background-color: #e6e6e6;
+		background-color: #fff;
 	}
 
 	.line3 {
@@ -103,7 +104,7 @@
 	<body ng-controller="versionController" style="overflow-x:hidden;">
 		<div class="row">
 		
-		<div id="diagram" class="col-md-6" style="padding-top:40px;">
+		<div id="diagram" class="col-md-6" style="margin-top: 46px;padding-top: 20px;">
 
 			<div class="row">
 				<div class="col-md-offset-3" style="font-weight:bold;">Master</div>
@@ -227,6 +228,6 @@
 			  $('[data-toggle="tooltip"]').tooltip()
 			})
 		</script>
-		<script src="index.js"></script>
+		<script src="https://cdn.rawgit.com/saumitra1993/gitblogpost/master/index.js"></script>
 	</body>
 </html>
